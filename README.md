@@ -17,3 +17,5 @@ ca3670789242a94a99aeede3d4593ab6fa8579eb  b
 ```
 
 a != b != c
+
+It's broken in Go 1.13, works fine in 1.14
